@@ -19,10 +19,9 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          <h1>Bolt Diagnostics</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+          Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients.
           </p>
         </div>
       </div>
