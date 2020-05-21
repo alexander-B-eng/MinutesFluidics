@@ -36,7 +36,7 @@ const Home = (props) => {
             <h2 className="title-3 text-dark mb-3">Our Services</h2>
           </div>
           {markdown.map(edge => (
-            <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
+            <div key={edge.node.frontmatter.path} className="col-12 col-md-12 mb-1">
               <div className="card service service-teaser">
                 <div className="card-content">
                   <h2>
