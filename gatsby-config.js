@@ -10,7 +10,7 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: 'Services',
+        name: 'MRSA',
         link: '/services',
       },
       {

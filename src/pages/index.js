@@ -47,11 +47,18 @@ const Home = (props) => {
               </div>
             </div>
           ))}
-          <div className="col-12 text-center">
-            <Link className="button button-primary mt-2" to="/services">
+
+          {markdown.map(edge => (
+            <div className="col-12 text-center">
+            <Link className="button button-primary mt-2" to={edge.node.frontmatter.path}>
               Learn More
             </Link>
           </div>
+          ))}
+
+
+
+          
         </div>
       </div>
 

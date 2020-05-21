@@ -1,5 +1,5 @@
 ---
-path: '/services/mergers'
+path: '/services/MinutesToMRSA'
 title: 'MinutesToMRSA'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
