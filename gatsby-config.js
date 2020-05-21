@@ -11,7 +11,7 @@ module.exports = {
     menuLinks: [
       {
         name: 'MRSA',
-        link: '/services',
+        link: '/services/MinutesToMRSA',
       },
       {
         name: 'Team',
