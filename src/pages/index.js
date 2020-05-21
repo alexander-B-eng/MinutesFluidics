@@ -19,7 +19,7 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Bolt Diagnostics</h1>
+          <h1>FlashFlow Diagnostic</h1>
           <p>
           Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients.
           </p>

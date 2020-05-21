@@ -2,11 +2,11 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Bolt Diagnostics',
+    title: 'FlashFlow Diagnostics',
     description: 'my theme',
     contact: {
       phone: '514 699 0789',
-      email: 'boltdiagnostics@gmail.com',
+      email: 'flashflowdiagnostics@gmail.com',
     },
     menuLinks: [
       {
