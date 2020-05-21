@@ -49,7 +49,7 @@ const Home = (props) => {
           ))}
           <div className="col-12 text-center">
             <Link className="button button-primary mt-2" to="/services">
-              View All Services
+              Learn More
             </Link>
           </div>
         </div>
