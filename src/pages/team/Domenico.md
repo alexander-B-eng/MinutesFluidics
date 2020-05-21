@@ -1,9 +1,9 @@
 ---
-path: '/team/domenico'
+path: '/team/domenico.jpeg'
 title: 'Domenico Lopez'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: './team/domenico.jpeg'
+image: '/team/domenico.jpeg'
 jobtitle: 'Marketing'
 email: 'domenico.lopez@mail.mcgill.ca'
 linkedinurl: 'www.linkedin.com/in/domenico-lopez/'
