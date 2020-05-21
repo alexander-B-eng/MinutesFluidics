@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "Free hopital consultation to determine cost-savings.",
     "image": "/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Fast",
+    "description": "Obtain test results for MRSA within minutes",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Integrated Lab-on-a-chip",
+    "description": "One portable simple integrated device for MRSA diagnosis.",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
