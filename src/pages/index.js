@@ -13,8 +13,8 @@ const Home = (props) => {
       <SEO title="Home" />
       <Helmet>
         <meta
-          name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          name="FlashFlowDiagnostics"
+          content="Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients."
         />
       </Helmet>
       <div className="intro pb-4">
