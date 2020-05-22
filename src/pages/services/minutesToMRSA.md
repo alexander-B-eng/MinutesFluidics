@@ -7,48 +7,30 @@ featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+A super fast, integrated and simple diagnostic tool for MRSA screening.
 
-## Ne verba patulosque numen vix libet
+## Description
+Methicillin-Resistant Staphylococcus Aureus (MRSA) is a highly contagious and asymptomatic bacterial
+infection. It has the potential to transmit rapidly between hospital patients since it spreads by open
+wounds, burns, feeding tubes, or by being in contact with shared surfaces (It forms biofilms on surfaces
+that infected individuals touch). Consequently, hospital administrators and staff would like to identify
+and isolate infected individuals as rapidly and as efficiently as possible before these individuals can
+transmit MRSA to other patients. The current diagnostic technology is the bacteria culture and
+Polymerase Chain Reaction (PCR) which unfortunately take &gt;24 hours and ~8 hours respectively to
+retrieve a result. We believe that diagnoses can be done even more rapidly with microfluidic devices,
+which offer the essential advantage of analyzing smaller volumes at faster rates. This in turn leads to a
+rapid diagnosis (within 10 minutes).
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Projected Outcomes
+Our product is a microfluidic PCR device which screens admitted hospital patients for MRSA. We call it
+MRSAgent. Imagine a world where a nurse can perform an automated diagnostic test at the point of
+care (at the patient’s bedside) and retrieve results within minutes. Getting this product from ideation to
+widespread use in hospitals is an example of High-Throughput Screening and Diagnostics Engineering:
+we identified a clinical need, we proposed a viable solution which will improve healthcare outcomes,
+and we embark on this project to design the product. We expect the following outcomes when our
+product is available:
+Hospital staff will have an easier time micromanaging both patients and isolated rooms and they will be
+able to make more informed decisions about using the antibiotic vancomycin.
+Hospital administrators will spend less money on vancomycin and on controlling outbreaks.
+Patients will appreciate that their practitioners can make timely and informed decisions on how to
+proceed with their treatment.
