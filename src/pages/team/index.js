@@ -46,7 +46,7 @@ const Team = (props) => {
                       </li>
                       <li>
                         <a href={edge.node.frontmatter.linkedinurl} target="_blank" >
-                          {edge.node.frontmatter.linkedinurl}
+                          {edge.node.frontmatter.linkedinurl.replace("https://www.", "")}
                         </a>
                       </li>
                       <li>

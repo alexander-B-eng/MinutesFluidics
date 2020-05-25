@@ -6,7 +6,7 @@ draft: false
 image: '/team/domenico.jpeg'
 jobtitle: 'Marketing'
 email: 'domenico.lopez@mail.mcgill.ca'
-linkedinurl: 'www.linkedin.com/in/domenico-lopez/'
+linkedinurl: 'https://www.linkedin.com/in/domenico-lopez/'
 weight: 2
 ---
 

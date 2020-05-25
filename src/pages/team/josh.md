@@ -5,8 +5,8 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: '/team/josh.jpg'
 jobtitle: 'Manufacturing'
-email: 'mailto: jiachi.ou@mail.mcgill.ca'
-linkedinurl: 'www.linkedin.com/in/jiachiou/'
+email: 'jiachi.ou@mail.mcgill.ca'
+linkedinurl: 'https://www.linkedin.com/in/jiachiou/'
 weight: 4
 ---
 

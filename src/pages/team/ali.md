@@ -6,7 +6,7 @@ draft: false
 image: '/team/ali.JPG'
 jobtitle: 'Software & Design'
 email: 'ali.najmaldin@mail.mcgill.ca'
-linkedinurl: 'www.linkedin.com/in/alinajmaldin/'
+linkedinurl: 'https://www.linkedin.com/in/alinajmaldin/'
 weight: 3
 ---
 
