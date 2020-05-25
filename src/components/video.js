@@ -1,7 +1,7 @@
 import React from "react"
 
 const Video = ({ videoSrcURL, videoTitle, ...props }) => (
-  <div className="embed-responsive embed-responsive-16by9 col-6 col-md-6 mb-1">
+  <div className="embed-responsive embed-responsive-16by9 col-12 col-sm-10 col-md-8 col-lg-6 col-x-2">
     <iframe
       class="embed-responsive-item"
       src={videoSrcURL}
