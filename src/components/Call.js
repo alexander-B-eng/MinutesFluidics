@@ -16,6 +16,12 @@ const Call = props => (
           {props.data.site.siteMetadata.contact.email}
         </a>
       </div>
+      <div className="call-phone">
+        <strong>LinkedIn: </strong>
+        <a href={`tel:${props.data.site.siteMetadata.contact.phone}`}>
+        {'@' + props.data.site.siteMetadata.contact.linkedin.replace('https://www.linkedin.com/company/','')}
+        </a>
+      </div>
     </div>
     {props.button && (
       <div className="call-box-bottom">
@@ -38,6 +44,7 @@ export default props => (
             contact {
               email
               phone
+              linkedin
             }
           }
         }

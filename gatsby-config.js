@@ -7,6 +7,7 @@ module.exports = {
     contact: {
       phone: '514 699 0789',
       email: 'flashflowdiagnostics@gmail.com',
+      linkedin: 'https://www.linkedin.com/company/flashflow-diagnostics',
     },
     menuLinks: [
       {
