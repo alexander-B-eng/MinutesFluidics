@@ -24,7 +24,7 @@ class ContactForm extends React.Component {
           </div>
           <div>
             <label htmlFor="w3lSender">Email</label>
-            <input type="email" name="w3lSender" id="w3lSender"/>
+            <input required type="email" name="w3lSender" id="w3lSender"/>
           </div>
           <div>
             <label htmlFor="w3lSubject">Subject</label>
