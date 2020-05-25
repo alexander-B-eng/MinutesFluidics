@@ -14,6 +14,10 @@ module.exports = {
         link: '/services/MinutesToMRSA',
       },
       {
+        name: 'Awards',
+        link: '/awards',
+      },
+      {
         name: 'Team',
         link: '/team',
       },
