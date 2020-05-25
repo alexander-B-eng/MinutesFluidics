@@ -2,6 +2,8 @@ import React from 'react';
 import SEO from '../../components/SEO';
 import Layout from '../../layouts/index';
 import Call from '../../components/Call';
+import ContactForm from '../../components/ContactForm'
+import '../../scss/components/_ContactForm.scss'
 
 const Contact = props => (
   <Layout bodyClass="page-contact">
@@ -70,11 +72,18 @@ const Contact = props => (
           </table>
         </div>
       </div>
+
+
+      {/* test form out */}
+
+        <ContactForm></ContactForm>
+
+      
     </div>
     
 
-    {/* test form out */}
-    
+
+
 
 
   </Layout>

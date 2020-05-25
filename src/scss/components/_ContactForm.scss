@@ -1,0 +1,35 @@
+
+
+
+.form-container {
+    background-color: #f7f8fe;
+    padding: 32px;
+    border: 1px solid #d3d6e7;
+    border-radius: 9px;
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: var(--text-secondary-color);
+    }
+    input[type=text],
+    input[type=email],
+    textarea {
+      appearance: none;
+      border: 1px solid #d5d5d5;
+      color: var(--text-secondary-color);
+      border-radius: 6px;
+      line-height: 32px;
+      padding: 6px 12px;
+      width: calc(100% - 24px);
+      margin-bottom: 1.5rem;
+      background-color: white;
+      // font-family: $font-family;
+    }
+    textarea {
+      margin-bottom: 2rem;
+      height: 150px;
+    }
+  }
+
+  
+  
