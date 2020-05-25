@@ -1,6 +1,6 @@
 ---
 path: '/team/josh'
-title: 'Josh Oo'
+title: 'Josh Ou'
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: '/team/josh.jpg'
