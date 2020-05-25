@@ -15,6 +15,7 @@ const SEO = props => (
           }}
           title={title}
           titleTemplate={`%s - ${data.site.siteMetadata.title}`}
+          image= {data.site.siteMetadata.image}
           link={[
             { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` },
           ]}
@@ -37,6 +38,7 @@ const detailsQuery = graphql`
     site {
       siteMetadata {
         title
+        image
       }
     }
   }

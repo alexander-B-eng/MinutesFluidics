@@ -4,11 +4,11 @@ module.exports = {
   siteMetadata: {
     title: 'FlashFlow Diagnostics',
     description: 'my theme',
+    image: 'metaPicture.png',
     contact: {
       phone: '514 699 0789',
       email: 'flashflowdiagnostics@gmail.com',
       linkedin: 'https://www.linkedin.com/company/flashflow-diagnostics',
-      image: 'metaPicture.png'
     },
     menuLinks: [
       {
