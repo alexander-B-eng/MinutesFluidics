@@ -5,14 +5,13 @@ const Video = ({ videoSrcURL, videoTitle, ...props }) => (
     <iframe
       src={videoSrcURL}
       title={videoTitle}
-    //   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    //   frameBorder="0"
-    //   webkitallowfullscreen="true"
-    //   mozallowfullscreen="true"
-    //   allowFullScreen
-    //   ratio='1.77'
-    //   width="498"
-    //   height="280"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      frameBorder="0"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowFullScreen
+      width="498"
+      height="280"
     />
   </div>
 )
