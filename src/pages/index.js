@@ -17,6 +17,7 @@ const Home = (props) => {
           name="FlashFlowDiagnostics"
           content="Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients."
         />
+        
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
