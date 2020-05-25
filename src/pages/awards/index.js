@@ -24,7 +24,7 @@ const Awards = (props) => {
             <div key={edge.node.frontmatter.path} className="col-12 col-md-6 mb-1">
               <div className="testimonial">
                 <div className="testimonials-meta">
-                  <h2 className="testimonials-title"><a href='https://www.mcgill.ca/medicine/about/faculty-awards-prizes/clic/about-competition'>{edge.node.frontmatter.title}</a></h2>
+                  <h2 className="testimonials-title"><a target="_blank" href={edge.node.frontmatter.path}>{edge.node.frontmatter.title}</a></h2>
                   <p className="testimonials-name">{edge.node.frontmatter.name}</p>
                   <p className="testimonials-jobtitle">{edge.node.frontmatter.jobtitle}</p>
                 </div>

@@ -1,5 +1,5 @@
 ---
-path: '/testimonials/McGill-Clinical-Inovation-Competition'
+path: 'https://www.mcgill.ca/medicine/about/faculty-awards-prizes/clic/about-competition'
 title: 'CLIC MI4 Innovation Prize'
 date: 2018-11-28T15:05:36+10:00
 draft: false

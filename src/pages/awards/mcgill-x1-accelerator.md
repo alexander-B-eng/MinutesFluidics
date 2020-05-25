@@ -1,11 +1,11 @@
 ---
-path: 'https://www.mcgill.ca/dobson/entrepreneurship-programs/mcgill-dobson-cup'
-title: 'Dobson Cup'
+path: 'https://www.mcgill.ca/dobson/entrepreneurship-programs/x1accelerator'
+title: 'McGill X-1 Accelerator'
 date: 2018-11-28T15:01:01+10:00
 draft: false
 image: ''
 businessurl: ''
-name: 'Dobson Cup'
+name: 'McGill X-1 Accelerator'
 business: 'Local Business Name'
 jobtitle: 'Owner'
 ---
