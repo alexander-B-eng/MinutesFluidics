@@ -25,7 +25,7 @@ const Home = (props) => {
           Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients.
           </p>
 
-          <p>Our minute pitch:</p>
+          <h2><a href="https://www.youtube.com/embed/ZiIi-lQ28oo" target="_blank">Our minute pitch</a></h2>
           <Video
           videoSrcURL="https://www.youtube.com/embed/ZiIi-lQ28oo"
           videoTitle="Minutes To MRSA"
