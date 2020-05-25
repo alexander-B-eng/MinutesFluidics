@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
+import Video from '../components/video'
 
 const Home = (props) => {
   const markdown = props.data.allMarkdownRemark.edges;
@@ -23,8 +24,15 @@ const Home = (props) => {
           <p>
           Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients.
           </p>
+
+          <p>Our minute pitch:</p>
+          <Video
+          videoSrcURL="https://www.youtube.com/embed/ZiIi-lQ28oo"
+          videoTitle="Minutes To MRSA"
+        />
         </div>
       </div>
+      
 
       <div className="container pt-2">
         <Call button />
