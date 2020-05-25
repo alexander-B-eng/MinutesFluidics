@@ -45,17 +45,6 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-remark-better-embed-video",
-      options: {
-        // width: 800,
-        ratio: 1, // Optional: Defaults to 16/9 = 1.77.
-        // height: 9000, // Optional: Overrides optional.ratio.
-        related: false, // Optional: Will remove related videos from the end of an embedded YouTube video.
-        noIframeBorder: true, // Optional: Disable insertion of <style> border: 0.
-        showInfo: false // Optional: Hides video title and player actions.
-      }
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/data`,

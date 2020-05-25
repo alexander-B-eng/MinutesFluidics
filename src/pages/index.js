@@ -27,9 +27,9 @@ const Home = (props) => {
 
           <h2><a href="https://www.youtube.com/embed/ZiIi-lQ28oo" target="_blank">Our minute pitch</a></h2>
           <Video
-          videoSrcURL="https://www.youtube.com/embed/ZiIi-lQ28oo"
-          videoTitle="Minutes To MRSA"
-        />
+            videoSrcURL="https://www.youtube.com/embed/ZiIi-lQ28oo"
+            videoTitle="Minutes To MRSA"
+          />
         </div>
       </div>
       
