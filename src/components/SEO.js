@@ -15,7 +15,7 @@ const SEO = props => (
           }}
           title={title}
           titleTemplate={`%s - ${data.site.siteMetadata.title}`}
-          image= {data.site.siteMetadata.image}
+          // image= {data.site.siteMetadata.image}
           link={[
             { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` },
           ]}
