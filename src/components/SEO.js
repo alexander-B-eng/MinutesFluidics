@@ -19,9 +19,7 @@ const SEO = props => (
           link={[
             { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` },
           ]}
-        >
-          <meta name="image" content={data.site.siteMetadata.image} />
-          </Helmet>
+        />
       );
     }}
   />
