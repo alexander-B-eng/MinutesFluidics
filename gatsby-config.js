@@ -2,13 +2,13 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'FlashFlow Diagnostics',
+    title: 'MinutesFluidics',
     description: 'my theme',
     image: 'metaPicture.png',
     contact: {
       phone: '514 699 0789',
-      email: 'flashflowdiagnostics@gmail.com',
-      linkedin: 'https://www.linkedin.com/company/flashflow-diagnostics',
+      email: 'minutesfluidics@gmail.com',
+      linkedin: 'https://www.linkedin.com/company/minutesfluidics',
     },
     menuLinks: [
       {

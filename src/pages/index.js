@@ -14,14 +14,14 @@ const Home = (props) => {
       <SEO title="Home" />
       <Helmet>
         <meta
-          name="FlashFlowDiagnostics"
+          name="MinutesFluidics"
           content="Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients."
         />
         
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>FlashFlow Diagnostic</h1>
+          <h1>MinutesFluidics</h1>
           <p>
           Our mission is to provide high-quality diagnostic equipment to North American hospitals for the rapid, inexpensive, and high-throughput screening of MRSA in admitted patients.
           </p>
