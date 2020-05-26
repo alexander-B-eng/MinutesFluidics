@@ -18,7 +18,7 @@ const Call = props => (
       </div>
       <div className="call-phone">
         <strong>LinkedIn: </strong>
-        <a href={`tel:${props.data.site.siteMetadata.contact.phone}`}>
+        <a href={`${props.data.site.siteMetadata.contact.linkedin}`}target="_blank">
         {'@' + props.data.site.siteMetadata.contact.linkedin.replace('https://www.linkedin.com/company/','')}
         </a>
       </div>
