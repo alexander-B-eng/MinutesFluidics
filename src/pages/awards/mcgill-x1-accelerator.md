@@ -5,9 +5,9 @@ date: 2018-11-28T15:01:01+10:00
 draft: false
 image: ''
 businessurl: ''
-name: 'McGill X-1 Accelerator'
+name: 'Winners'
 business: 'Local Business Name'
-jobtitle: 'Owner'
+jobtitle: 'of the X-1 Prize'
 ---
 
-> Value proposition accelerator crowdsource channels customer. Research & development seed money channels creative. Ramen buzz ecosystem technology equity paradigm shift business-to-business lean startup social proof client startup. Agile development partnership business-to-consumer pitch marketing twitter venture advisor metrics alpha bootstrapping infrastructure seed round.ffff
+> the McGill X-1 Accelerator is an intensive 10-week online summer program designed to accelerate early traction McGill startups towards investment readiness and launch.

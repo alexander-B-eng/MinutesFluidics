@@ -5,9 +5,9 @@ date: 2018-11-28T15:05:36+10:00
 draft: false
 image: ''
 businessurl: ''
-name: 'ali Lion'
+name: 'Winners'
 business: 'McGill Clinical Inovation Competition'
-jobtitle: 'Creative Director'
+jobtitle: 'of the MI4 Prize'
 ---
 
-> Sales bandwidth business model canvas android infographic leverage prototype traction buzz. Founders stock startup incubator gamification series A financing churn rate gen-z ecosystem bootstrapping branding. Interaction design partnership technology. Hackathon infrastructure bandwidth bootstrapping. fff
+> Inspired by Dr. Raymond Hakim, the McGill Clinical Innovation Competition (CLIC) aims to inspire members of our Faculty of Medicine community to conceive and develop promising ideas that will have a direct and positive impact on Canadian or global health care. The MI4 Innovation Prize, sponsored by the McGill Interdisciplinary Initiative in Infection and Immunity, aims to support innovative solutions that focus on infectious and immune threats to human health.
