@@ -6,7 +6,7 @@ draft: false
 image: '/team/alexander.jpeg'
 jobtitle: 'Finance & Design'
 email: 'alexander.bevacqua@mail.mcgill.ca'
-linkedinurl: 'https://www.linkedin.com/in/alexander-bevacqua-9a7524170/'
+linkedinurl: 'https://www.linkedin.com/in/alexander-bevacqua/'
 weight: 1
 ---
 
