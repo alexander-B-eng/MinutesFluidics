@@ -1,13 +1,16 @@
 ---
-path: 'https://www.mcgill.ca/medicine/about/faculty-awards-prizes/clic/about-competition'
-title: 'CLIC MI4 Innovation Prize'
+path: 'https://www.mcgill.ca/medicine/about/faculty-awards-prizes/clic/2019-2020-winners-finalists?fbclid=IwAR03lH411qhLHxVJfZrZtLm01s-WCPeBlWMIx9C8bMbLg2wO4twBIYBbFKY'
+title: 'McGill Clinic Innovation Competition'
 date: 2018-11-28T15:05:36+10:00
 draft: false
 image: ''
 businessurl: ''
-name: 'Winners'
+name: 'Result:'
 business: 'McGill Clinical Inovation Competition'
-jobtitle: 'of the MI4 Prize'
+jobtitle: 'Winners of the 2020 MI4 Innovation prize'
 ---
 
-> Inspired by Dr. Raymond Hakim, the McGill Clinical Innovation Competition (CLIC) aims to inspire members of our Faculty of Medicine community to conceive and develop promising ideas that will have a direct and positive impact on Canadian or global health care. The MI4 Innovation Prize, sponsored by the McGill Interdisciplinary Initiative in Infection and Immunity, aims to support innovative solutions that focus on infectious and immune threats to human health.
+> This prize is sponsored by the McGill Interdisciplinary Initiative in Infection and Immunity, aiming to support _innovative solutions that focus on infections and immune threats to human health_.
+
+* Granted a $8000 monetary award
+* Access to dedicated physical presence at the McGill Simnovation Hub for up to 12 months and access to Faculty and University services for a total additional value worth up to $40,000
