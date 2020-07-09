@@ -22,8 +22,8 @@ which offer the essential advantage of analyzing smaller volumes at faster rates
 rapid diagnosis (within 10 minutes).
 
 ## Projected Outcomes
-Our product is a microfluidic PCR device which screens admitted hospital patients for MRSA. We call it
-MRSAgent. Imagine a world where a nurse can perform an automated diagnostic test at the point of
+Our product is a microfluidic device which screens admitted hospital patients for MRSA. We call it
+MinutesToMRSA. Imagine a world where a nurse can perform an automated diagnostic test at the point of
 care (at the patient’s bedside) and retrieve results within minutes. Getting this product from ideation to
 widespread use in hospitals is an example of High-Throughput Screening and Diagnostics Engineering:
 we identified a clinical need, we proposed a viable solution which will improve healthcare outcomes,
